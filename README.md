@@ -1,7 +1,53 @@
-# TDI Controle Financeiro
-A idéia do projeto e fazer um controle financeiro de entrada e saida de valores, com descrição para ter controle financeiro de lançamentos no progrma.
+# Controle Financeiro
 
-<h3>Na descrição você coloca alguma informação sobre o valor, no valor a quantidade de $, se for para retirar colocar - antes do valor por exemplo (-200) e o saldo vai somando todas os dados cadastrados, na lateral de cada entrada, tem um X onde ao clicar remove o valor cadastrado. </h3>
+<h3>Essa é uma atividade desenvolvida para a matéria Técnologia de Desenvolvimento para Internet || </h3>
+
+##
+
+# Funcionalidades
+> Inserir descrição de uma transação
+>
+> Inserir transação negativa e positiva
+>
+> Deletar transação
+> 
+> Calcular saldo total dinâmicamente
+> 
+> Mostrar histórico de transações
+
+##
+
+# Técnologias utilizadas
+> HTML5
+> 
+> CSS3
+> 
+> JavaScript
+
+##
+
+# Como usar
+
+<h4>
+  Você pode baixar o repositório em sua máquina e abrir o arquivo index.html ou acessar o link abaixo.
+  
+  Adicione um texto na descrição.
+  
+  Se o saldo por positivo, apenas digite o valor.
+  
+  Se o saldo for negativo, coloque o operador de subtração "-" antes de inserir o calor do saldo.
+
+  Clique no botão adicionar.
+  
+  Para deletar uma transação, passe o mouse em cima dela no histórico e vai aparecer.
+</h4>
+
+##
+
+# Link para acessar o projeto
+> https://andredevsec.github.io/Controle-financeiro-Web/
+
+##
 
 
 ![image](https://user-images.githubusercontent.com/84422477/227727522-ded1a5dd-2ee7-464b-a08c-c6827d06fb9f.png)
