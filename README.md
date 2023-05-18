@@ -33,7 +33,7 @@
   
   Adicione um texto na descrição.
   
-  Se o saldo por positivo, apenas digite o valor.
+  Se o saldo for positivo, apenas digite o valor.
   
   Se o saldo for negativo, coloque o operador de subtração "-" antes de inserir o calor do saldo.
 
